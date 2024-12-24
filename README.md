@@ -1,6 +1,7 @@
 # Note Taker Application
 
-<img src="/images/image.png">
+![image](https://github.com/user-attachments/assets/d47d1bb4-1e35-4a5f-91e5-937d67d06306)
+
 
 
 ## Table of Contents
